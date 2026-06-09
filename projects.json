@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Python",
+    "details": "Python Project Details",
+    "target": 10000.0,
+    "start_date": "2026-4-16",
+    "end_date": "2026-4-28",
+    "owner_email": "ahmed@gmail.com"
+  },
+  {
+    "id": 2,
+    "title": "C#",
+    "details": "C# Project Deatails",
+    "target": 10000.0,
+    "start_date": "2026-5-13",
+    "end_date": "2026-6-13",
+    "owner_email": "ahmed@gmail.com"
+  }
+]

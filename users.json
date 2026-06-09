@@ -1,0 +1,23 @@
+[
+  {
+    "first_name": "Ahmed",
+    "last_name": "Rezk",
+    "email": "ahmed@gmail.com",
+    "password": "1234",
+    "phone": "01201818966"
+  },
+  {
+    "first_name": "Mohamed",
+    "last_name": "Rezk",
+    "email": "mohamed@gmail.com",
+    "password": "1234",
+    "phone": "01201818966"
+  },
+  {
+    "first_name": "Ali",
+    "last_name": "Ahmed",
+    "email": "ali@gmail.com",
+    "password": "1234",
+    "phone": "01201818966"
+  }
+]
